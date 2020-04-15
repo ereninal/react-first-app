@@ -1,10 +1,12 @@
 import React from 'react'
 
-function navbar(props) {
+function navbar() {
     return (
         <div>
-            {props.title}
+            
         </div>
     )
 }
+
+
 export default navbar;
